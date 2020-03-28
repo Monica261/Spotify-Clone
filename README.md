@@ -1,6 +1,7 @@
-# Spotify clone
+# Spotify 
 
 Mônica Nathalia Sousa Torres
 
 Linguagens utilizadas: HTML,CSS e Bootstrap.
-aaaaaaaaaaaa
+
+Operando testes e desafios!
