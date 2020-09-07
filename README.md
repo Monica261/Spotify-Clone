@@ -1,3 +1,3 @@
 # Spotify Clone 
 
-Um projeto utilizando HTML, CSS, JS e Bootstrap!
+Um projeto utilizando HTML, CSS e Bootstrap!
